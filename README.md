@@ -1,14 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Latterlig96" alt="Latterlig96" /> </p>
 
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h2 align="center">AI Engineer @Comarch</h2>
+<h2 align="center">Backend Developer @FanServ</h2>
 
 <br/>
 
 ### :writing_hand: <strong>About Me</strong>:
 - <strong>Graduate from AGH University of Science and Technology in Cracow</strong>
 - <strong>Python and Machine Learning enthusiast</strong>
-- <strong>Mostly interested in Computer Vision and Time Series Forecasting</strong>
+- <strong>Mostly interested in Backend Development, Computer Vision and Time Series Forecasting</strong>
 - <strong>Fascinated about building and deploying scalable ML models and APIs</strong>
 - <strong>Arcade games fan</strong>
 
