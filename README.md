@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Latterlig96" alt="Latterlig96" /> </p>
 
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h2 align="center">Backend Developer @FanServ</h2>
+<h2 align="center">Full Stack Engineer @HSBC</h2>
 
 <br/>
 
